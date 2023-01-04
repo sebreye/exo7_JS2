@@ -11,3 +11,5 @@ class Personnage {
 }
 let personnage1 = new Personnage(30, 'Alice', 'Paris');
 let personnage2 = new Personnage(20, 'Bob', 'Lyon')
+personnage1.sePresenter()
+personnage2.sePresenter()
